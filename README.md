@@ -23,7 +23,7 @@
         <ul>
           <li><b>Nome:</b> Fernanda</li>
           <li><b>Apelido:</b> Moonlight, Fanta, Fefi, Fefe, etc...</li>
-          <li><b>Coisas que gosto:</b> Anime, Valorant, sushi, música, vôlei.</li>
+          <li><b>Coisas que gosto:</b> Anime, valorant, sushi, música, vôlei.</li>
         </ul>
       </td>
       <td>
