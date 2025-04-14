@@ -22,7 +22,7 @@
       <td>
         <ul>
           <li><b>Nome:</b> Fernanda</li>
-          <li><b>Apelido:</b> Moonlight, Fanta, Fefi, Fefe, etc...</li>
+          <li><b>Apelido:</b> Moonlight, Fanta, Fefi, Fefe, Fern, etc...</li>
           <li><b>Coisas que gosto:</b> Anime, valorant, sushi, música, vôlei.</li>
         </ul>
       </td>
